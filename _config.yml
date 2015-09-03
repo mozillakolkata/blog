@@ -2,10 +2,10 @@
 title: Mozilla Kolkata
 email: anirudhastark@yahoo.com
 description: "This is the official blog of Mozilla Kolkata Community "
-baseurl: ""
+baseurl: "/blog"
 paginate:	5
 paginate_path: "page:num"
-url: ""
+url: "http://mozillakolkata.github.io/blog/"
 twitter_username: mozillakolkata
 github_username:  mozillakolkata
 
