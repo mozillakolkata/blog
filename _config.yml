@@ -1,0 +1,14 @@
+# Site settings
+title: Mozilla Kolkata
+email: anirudhastark@yahoo.com
+description: "This is the official blog of Mozilla Kolkata Community "
+baseurl: ""
+paginate:	5
+paginate_path: "page:num"
+url: ""
+twitter_username: mozillakolkata
+github_username:  mozillakolkata
+
+# Build settings
+markdown: kramdown
+permalink: pretty
