@@ -1,6 +1,6 @@
 ---
 layout: page
-title: self._About_
+title: About Us
 subtitle: Where there is a shell, there is a way!
 imgurl: /img/about-bg.jpg
 ---
@@ -17,7 +17,7 @@ imgurl: /img/about-bg.jpg
 	}(document, 'script', 'facebook-jssdk'));</script>
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			<p>Lrem ipsum text</p>
+			<p>Lorem ipsum text</p>
 		</div>
 	</div>
 </div>
