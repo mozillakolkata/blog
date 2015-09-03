@@ -1,6 +1,6 @@
 ---
 layout: page
-title: self._About_
+title: About Us
 subtitle: Where there is a shell, there is a way!
 imgurl: /img/about-bg.jpg
 ---
