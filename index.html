@@ -1,0 +1,55 @@
+---
+layout: default
+imgurl: /img/home-bg.jpg
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          {% for post in paginator.posts %}
+            <div class="post-preview">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <h2 class="post-title">
+                        {{ post.title }}
+                    </h2>
+                    <h3 class="post-subtitle">
+                        {{ post.subtitle }}
+                    </h3>
+                </a>
+                <p class="post-meta">Posted by <a href="{{ site.url }}">{{ post.author }}</a> on {{ post.date | date: "%b %-d, %Y" }}</p>
+            </div>
+            <hr>
+          {% endfor %}
+          <ul class="pager">
+            {% if paginator.total_pages > 1 %}
+              <div class="pagination col-md-10">
+                <div class="col-sm-5">
+                  {% if paginator.previous_page %}
+                  <li class="previous">
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Latest Posts</a>
+                  </li>
+                  {% else %}
+                    <li class="previous">
+                    </li>
+                  {% endif %}
+                </div>
+
+                <div class="col-sm-5">
+                  {% if paginator.next_page %}
+                  <li class="next">
+                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+                  </li>
+                  {% else %}
+                    <li class="next">
+                    </li>
+                  {% endif %}
+                </div>
+              </div>
+              {% endif %}
+          </ul>
+        </div>
+    </div>
+</div>
+
+<hr>
+
