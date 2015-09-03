@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World!"
 subtitle: "<Hello World>"
 author: "Kumar Anirudha"
-date:   2014-07-23 23:39:07
+date:   2015-09-03 10:80:07
 categories: jekyll
 imgurl: /img/hello_world.gif
 ---
