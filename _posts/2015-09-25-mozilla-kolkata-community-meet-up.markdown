@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Community MeetUp"
+title:  "Community Meetup"
 subtitle: "Creation of Mozilla Kolkata Task Force"
 author: "Mozilla Kolkata"
 date:   2015-09-25 13:04:10 + 0530
@@ -65,4 +65,4 @@ But wait!! We don’t end here!! The MozWiki page lists the various FSA clubs th
 Special Mention:
 Credit deserves to be given where its due. The Community has decided to feature one of the Community Contributirs, the preson whose contribution steals the show, on the official Mozilla Kolkata Blog. This Mozillian or FSA would be the star of the Community and might get rewarded even. All in all, you’re in for a ride. Cheers to Mozilla, Cheers to Kolkata!!
 
-Thanks to Priyansu Ganguly for the report.
+Thanks to Priyansu Ganguly and Debapriya Bhattacharya for the report.
