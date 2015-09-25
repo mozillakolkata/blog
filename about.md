@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: Where there is a shell, there is a way!
+subtitle: 
 imgurl: /img/about-bg.jpg
 ---
 
@@ -17,7 +17,7 @@ imgurl: /img/about-bg.jpg
 	}(document, 'script', 'facebook-jssdk'));</script>
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			<p>Lorem ipsum text</p>
+			<p>We love Mozilla</p>
 		</div>
 	</div>
 </div>
