@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mozilla Kolkata Community Meet Up"
+title:  "Community Meet Up"
 subtitle: "Creation of Mozilla Kolkata Task Force"
 author: "Mozilla Kolkata"
 date:   2015-09-25 13:04:10 + 0530
@@ -47,17 +47,19 @@ Day 2 kicked off at Meet-Up Space Barasat with Community Recognition, Task-Force
 
 Quick Contact:
 The MozWiki page hosts the list of Community memebers to get in touch with in cases of Contribution queries/event requests/event proposals:
+
 FSA/Promotion/Hosting Event & Meetup/PR/Marketing/ Event Logistics: Biraj Karmakar
+
 Contribution Areas Leaders:
-Swaranava Sengupta </br>
-Debapriya Bhattacharya </br>
-Ayan Choudhury </br>
-Sumantro Mukherjee </br>
-Srijib Roy </br>
-•	Mozilla Science Lab / Hive -- Contact : Shahid Farooqi, Avik Pal
-•	Want to submit a patch to firefox -- Contact : Avik Pal 
-•	Womoz -- Contact : Will be assigned soon
-•	Social Media/Blog -- Contact : Sukanta Pal, Priyansu Ganguly
+Swaranava Sengupta, Ayan Choudhury, Debapriya Bhattacharya, Sumantro Mukherjee, Srijib Roy
+
+Mozilla Science Lab / Hive -- Contact : Shahid Farooqi, Avik Pal
+
+Want to submit a patch to firefox -- Contact : Avik Pal 
+
+Womoz -- Contact : Will be assigned soon
+
+Social Media/Blog -- Contact : Sukanta Pal, Priyansu Ganguly
 
 But wait!! We don’t end here!! The MozWiki page lists the various FSA clubs that link themselves to the Mozilla Kolkata Community, the various events in the past and even FSA blogs can be seen in the future. 
 Special Mention:
