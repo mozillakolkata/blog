@@ -23,7 +23,7 @@ Greetings one and all from the Mozilla Kolkata Community. Kolkata is home to one
 •	Proud of
 •	Challenges
 •	Goals
-•	  Womoz
+•	Womoz
 •	SWOT session 
 •	Strength, 
 •	Weakness, 
@@ -39,19 +39,21 @@ Day 2 kicked off at Meet-Up Space Barasat with Community Recognition, Task-Force
 •	Community recognition
 •	Community Blog
 
-The MozWiki page of the Mozilla Kolkata Community came up in a matter of days as an outcome of the two day Meet-up which clearly describes the future plans and procedures and the ways in which the Community would work in the future.Here’s the MozWiki Page Link:
-https://wiki.mozilla.org/India/Kolkata
- The Wiki page comes at an important time when the official page of the Mozilla Kolkata Community gets updated keeping in mind the changing faces of the Community. The page contains in details the various aspects of the Community including Task Force leaders, Functional areas Mentors, Community Recognition rules, Rules to organize an Event and even ways to join in if you’re completely a newbie.
-The monthly On-Boarding call(Time and Date: 9.00 - 9.30 PM IST / Last Friday of every month) and Online Community Meeting(Time and Date: 9.00 - 9.30 PM IST / Last Tuesday of every month) comes as a real boost to our ambitions of expanding the Community and assigning specific Contribution areas to specific Community members. Not only does it improve Communication among Community members but also provides the very necessary platform to exchange ideas and views alike. We would like all Community members to be a part of these Community meetings and be a part of one of the fastest growing Mozilla Communities in the nation.
+  The MozWiki page of the Mozilla Kolkata Community came up in a matter of days as an outcome of the two day Meet-up which clearly describes the future plans and procedures and the ways in which the Community would work in the future.Here’s the MozWiki Page Link: https://wiki.mozilla.org/India/Kolkata
+
+  The Wiki page comes at an important time when the official page of the Mozilla Kolkata Community gets updated keeping in mind the changing faces of the Community. The page contains in details the various aspects of the Community including Task Force leaders, Functional areas Mentors, Community Recognition rules, Rules to organize an Event and even ways to join in if you’re completely a newbie.
+
+  The monthly On-Boarding call(Time and Date: 9.00 - 9.30 PM IST / Last Friday of every month) and Online Community Meeting(Time and Date: 9.00 - 9.30 PM IST / Last Tuesday of every month) comes as a real boost to our ambitions of expanding the Community and assigning specific Contribution areas to specific Community members. Not only does it improve Communication among Community members but also provides the very necessary platform to exchange ideas and views alike. We would like all Community members to be a part of these Community meetings and be a part of one of the fastest growing Mozilla Communities in the nation.
+
 Quick Contact:
 The MozWiki page hosts the list of Community memebers to get in touch with in cases of Contribution queries/event requests/event proposals:
 FSA/Promotion/Hosting Event & Meetup/PR/Marketing/ Event Logistics: Biraj Karmakar
 Contribution Areas Leaders:
-Swaranava Sengupta
-Debapriya Bhattacharya
-Ayan Chowdhury
-Sumantro Mukherjee
-Srijib Roy
+Swaranava Sengupta </br>
+Debapriya Bhattacharya </br>
+Ayan Choudhury </br>
+Sumantro Mukherjee </br>
+Srijib Roy </br>
 •	Mozilla Science Lab / Hive -- Contact : Shahid Farooqi, Avik Pal
 •	Want to submit a patch to firefox -- Contact : Avik Pal 
 •	Womoz -- Contact : Will be assigned soon
