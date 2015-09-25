@@ -9,7 +9,7 @@ imgurl: /img/material.jpeg
 
 ---
 
-# Community MeetUp
+# Community Meetup
 
 “Nourish beginnings, Let us nourish beginnings. Not all things are blessed, but the seeds of all things are blessed. The blessing is in the seed.   ”
                                                                                                                         -------------------------- Muriel Rukeyser
