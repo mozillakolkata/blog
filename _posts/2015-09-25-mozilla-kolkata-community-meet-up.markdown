@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Community Meet Up"
+title:  "Community MeetUp"
 subtitle: "Creation of Mozilla Kolkata Task Force"
 author: "Mozilla Kolkata"
 date:   2015-09-25 13:04:10 + 0530
@@ -9,7 +9,7 @@ imgurl: /img/material.jpeg
 
 ---
 
-# Community Meet Up
+# Community MeetUp
 
 “Nourish beginnings, Let us nourish beginnings. Not all things are blessed, but the seeds of all things are blessed. The blessing is in the seed.   ”
                                                                                                                         -------------------------- Muriel Rukeyser
